@@ -1,4 +1,4 @@
-package me.dio.coding.votacaobbbapi.controller;
+package me.dio.coding.votacao.bbb.api.controller;
 
 import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;

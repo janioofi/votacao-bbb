@@ -1,7 +1,7 @@
-package me.dio.coding.votacaobbbapi.controller;
+package me.dio.coding.votacao.bbb.api.controller;
 
-import me.dio.coding.votacaobbbapi.model.ParametroModel;
-import me.dio.coding.votacaobbbapi.repository.ParametroRepository;
+import me.dio.coding.votacao.bbb.api.repository.ParametroRepository;
+import me.dio.coding.votacao.bbb.api.model.ParametroModel;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

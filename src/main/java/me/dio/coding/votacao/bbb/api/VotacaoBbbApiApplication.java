@@ -1,4 +1,4 @@
-package me.dio.coding.votacaobbbapi;
+package me.dio.coding.votacao.bbb.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

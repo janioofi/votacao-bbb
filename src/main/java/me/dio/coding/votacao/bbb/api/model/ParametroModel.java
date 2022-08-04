@@ -1,4 +1,4 @@
-package me.dio.coding.votacaobbbapi.model;
+package me.dio.coding.votacao.bbb.api.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
